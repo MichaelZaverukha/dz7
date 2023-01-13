@@ -1,5 +1,6 @@
 body{
    font-family: 'Roboto',sans-serif;
+   width: 100%;
 }
 
 * {
@@ -221,6 +222,7 @@ main{
 .footer{
    width: 535px;
    height: 45px;
+   width: 100%;
    background-color:#4A4F56 ;
    margin: 0 auto;
    display: flex;
