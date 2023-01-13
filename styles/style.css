@@ -146,7 +146,7 @@ main{
    display: inline-block;
    width: 15px;
    height: 15px;
-   background:url(./images/Vector\ 1.svg) no-repeat ;
+   background:url(../images/Vector\ 1.svg) no-repeat ;
    margin-top: 3px;
    opacity: 0;
 }
