@@ -220,7 +220,7 @@ main{
 }
 
 .footer{
-   width: 535px;
+   max-width: 535px;
    height: 45px;
    width: 100%;
    background-color:#4A4F56 ;
